@@ -2,7 +2,9 @@ Command git pour save tes modif :
 
 git add .
 git commit -m "Commentaire"
-git push
+git push origin main
+ou si ca marche pas : git push origin main --force
+
 
 
 Quand tu veut recuperer les modif depuis le depot : 
