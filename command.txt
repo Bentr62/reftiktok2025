@@ -4,6 +4,7 @@ git add .
 git commit -m "Commentaire"
 git push origin main
 ou si ca marche pas : git push origin main --force
+respecte bien les commande dans l'ordre 
 
 
 
