@@ -7,7 +7,7 @@ ou si ca marche pas : git push origin main --force
 respecte bien les commande dans l'ordre 
 
 
-cc
+
 Quand tu veut recuperer les modif depuis le depot : 
 
 git pull
