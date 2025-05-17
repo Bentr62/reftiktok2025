@@ -1,0 +1,17 @@
+Command git pour save tes modif : 
+
+git add .
+git commit -m "Commentaire"
+git push
+
+
+Quand tu veut recuperer les modif depuis le depot : 
+
+git pull
+fait le souvent.
+
+et quand tu veut add le depot a ton vs code :
+ 
+git init
+git remote add origin https://github.com/Bentr62/Snt-html.git
+
