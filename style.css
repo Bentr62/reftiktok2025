@@ -1,10 +1,4 @@
-body {
-  background-image: url("maxresdefault.jpg");
-  font-family: 'Arial', sans-serif;
-  color: #e24141;
-  margin: 0;
-  padding: 20px;
-}
+
 
 
 p {
@@ -17,8 +11,3 @@ p {
 }
 
 
-.carte {
-  background-color: #f0f0f0;
-  padding: 20px;
-  border-radius: 8px;
-}
