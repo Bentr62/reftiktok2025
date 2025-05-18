@@ -1,7 +1,7 @@
 .titre {
   font-size: 50px;
   font-weight: bold;
-  background: linear-gradient(120deg, #FE2C55 20%, #25F4EE 60%, #FFFFFF 90%);
+  background: linear-gradient(120deg, #FE2C55 30%, #25F4EE 60%, #FFFFFF 90%);
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
