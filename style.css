@@ -12,5 +12,19 @@
 }
 
 
+.prmref {
+
+text-align:center;
+font-size: 17px;
 
 
+
+}
+
+input[type=range]::-webkit-slider-thumb {
+  width: 8px;     
+  height: 8px;    
+  background: #00f;
+  border-radius: 50%;
+  cursor: pointer;
+}
